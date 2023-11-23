@@ -219,6 +219,10 @@
     "branch": "master",
     "commit": "50012918b2fc8357b87cff2a7f7f0446e47da174"
   },
+  "sqlua.nvim": {
+    "branch": "master",
+    "commit": "6697d990a47885bb79aa1bc95482b754d0698e70"
+  },
   "telescope-fzf-native.nvim": {
     "branch": "main",
     "commit": "6c921ca12321edaa773e324ef64ea301a1d0da62"
