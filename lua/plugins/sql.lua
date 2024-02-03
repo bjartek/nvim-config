@@ -1,7 +1,7 @@
 return {
   "xemptuous/sqlua.nvim",
   lazy = true,
-  event = "SQLua",
+  cmd = "SQLua",
 
   config = function()
     require("sqlua").setup({
